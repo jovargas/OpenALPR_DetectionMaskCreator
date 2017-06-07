@@ -7,6 +7,7 @@ How to use:
 - Use right-click to close a polygon area (you can draw as many polygons as you wish).
 - If you want to clear the drawn polygons and start over, click on the "Clear Mask" button.
 - If you want to save a mask that contains the whole image, just click on the "Clear Mask" button and then "Save".
+- To show the process images, select the "Debug images" option.
 - To save the mask image, click on the "Save" button and choose a path to save the file.
 - In the openalpr.conf file set the parameter: detection_mask_image = [path/where/you/saved/the/mask.jpg]
 
