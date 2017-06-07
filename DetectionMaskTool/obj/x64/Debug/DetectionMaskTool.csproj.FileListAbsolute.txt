@@ -1,0 +1,14 @@
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\OpenALPR - DetectionMaskTool.exe.config
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\cvextern.dll
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\msvcp140.dll
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\vcruntime140.dll
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\OpenALPR - DetectionMaskTool.exe
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\OpenALPR - DetectionMaskTool.pdb
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\Emgu.CV.World.dll
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\Emgu.CV.World.pdb
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x64\Debug\Emgu.CV.World.xml
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.DetectionMaskForm.resources
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.Properties.Resources.resources
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.csproj.GenerateResource.Cache
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\OpenALPR - DetectionMaskTool.exe
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\OpenALPR - DetectionMaskTool.pdb

@@ -1,0 +1,20 @@
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\bin\Debug\Emgu.CV.World.dll
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\bin\Debug\Emgu.CV.World.xml
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.DetectionMaskForm.resources
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.Properties.Resources.resources
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.csproj.GenerateResource.Cache
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool v1.0.exe.config
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool v1.0.exe
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool v1.0.pdb
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\obj\Debug\OpenALPR - DetectionMaskTool v1.0.exe
+c:\users\joel\documents\visual studio 2015\Projects\DetectionMaskTool\DetectionMaskTool\obj\Debug\OpenALPR - DetectionMaskTool v1.0.pdb
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool v1.0.exe.config
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\OpenALPR - DetectionMaskTool v1.0.exe
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\OpenALPR - DetectionMaskTool v1.0.pdb
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool v1.0.exe
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool v1.0.pdb
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\Debug\Emgu.CV.World.xml
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.csprojResolveAssemblyReference.cache
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.DetectionMaskForm.resources
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.Properties.Resources.resources
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.csproj.GenerateResource.Cache

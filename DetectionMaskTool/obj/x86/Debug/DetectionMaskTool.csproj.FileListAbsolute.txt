@@ -1,0 +1,5 @@
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\bin\x86\Debug\OpenALPR - DetectionMaskTool v1.0.exe.config
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x86\Debug\DetectionMaskTool.csprojResolveAssemblyReference.cache
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x86\Debug\DetectionMaskTool.DetectionMaskForm.resources
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x86\Debug\DetectionMaskTool.Properties.Resources.resources
+E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x86\Debug\DetectionMaskTool.csproj.GenerateResource.Cache
