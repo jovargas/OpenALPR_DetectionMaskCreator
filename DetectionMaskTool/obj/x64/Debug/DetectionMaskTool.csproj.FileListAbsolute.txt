@@ -12,3 +12,17 @@ E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\Detectio
 E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.csproj.GenerateResource.Cache
 E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\OpenALPR - DetectionMaskTool.exe
 E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\x64\Debug\OpenALPR - DetectionMaskTool.pdb
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\OpenALPR - DetectionMaskTool.exe.config
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\obj\x64\Debug\OpenALPR - DetectionMaskTool.exe
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\obj\x64\Debug\OpenALPR - DetectionMaskTool.pdb
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\cvextern.dll
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\msvcp140.dll
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\vcruntime140.dll
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\OpenALPR - DetectionMaskTool.exe
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\OpenALPR - DetectionMaskTool.pdb
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.DetectionMaskForm.resources
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.Properties.Resources.resources
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\obj\x64\Debug\DetectionMaskTool.csproj.GenerateResource.Cache

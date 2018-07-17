@@ -18,3 +18,4 @@ E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMas
 E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.DetectionMaskForm.resources
 E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.Properties.Resources.resources
 E:\OCR\Codigos VS2015\DetectionMaskTool\DetectionMaskTool\obj\Debug\DetectionMaskTool.csproj.GenerateResource.Cache
+C:\Users\Joel\Documents\GitHubVisualStudio\OpenALPR_DetectionMaskCreator\DetectionMaskTool\bin\Debug\OpenALPR - DetectionMaskTool.exe.config

@@ -64,7 +64,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Emgu.CV.World">
-      <HintPath>C:\Emgu\emgucv320\emgucv\bin\Emgu.CV.World.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Emgu\emgucv341\bin\Emgu.CV.World.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
